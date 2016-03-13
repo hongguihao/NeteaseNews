@@ -1,6 +1,6 @@
 //
-//  _1_____UITests.m
-//  01-网易新闻UITests
+//  _2______03_13UITests.m
+//  02-网易新闻-03-13UITests
 //
 //  Created by mac on 16/3/13.
 //  Copyright © 2016年 haoge. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface _1_____UITests : XCTestCase
+@interface _2______03_13UITests : XCTestCase
 
 @end
 
-@implementation _1_____UITests
+@implementation _2______03_13UITests
 
 - (void)setUp {
     [super setUp];

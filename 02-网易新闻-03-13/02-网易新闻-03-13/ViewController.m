@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  01-网易新闻
+//  02-网易新闻-03-13
 //
 //  Created by mac on 16/3/13.
 //  Copyright © 2016年 haoge. All rights reserved.
@@ -16,8 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup wewafter loading the view, typically from a nib.
-    int a = 0;
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
